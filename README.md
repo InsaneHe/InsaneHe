@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @InsaneHe
 - 👀 I’m interested in Python, R, MySQL, Matlab and Tableau
 - 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on Financial Projects which use Python as its language.
+- 💞️ I’m keen on FinTech/Credit-decisioning projects
 - 📫 How to reach me Email: Hezhengjie2023@gmail.com
 
 <!---
