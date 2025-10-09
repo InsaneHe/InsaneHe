@@ -12,7 +12,7 @@
 
 ![github统计](https://stats.justsong.cn/api/github?username=ubrong&amp;theme=dark&amp;lang=EN)
 
-![Visitor Count](https://profile-counter.glitch.me/{InsaneHe}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{ubrong}/count.svg)
 
 <!---
 InsaneHe/InsaneHe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
